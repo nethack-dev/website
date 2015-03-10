@@ -1,7 +1,7 @@
 # website
 ### technologies
 - [meteorjs](https://www.meteor.com/)
- - [Differential boilerplate](https://github.com/Differential/meteor-boilerplate)
+ - [boilerplate](git@github.com:nethack-rd/meteor-chat-tutorial.git)
 
 - [mongodb](http://www.mongodb.com/)
 - [gundb](https://github.com/nethack-rd/gun) from http://gundb.io/

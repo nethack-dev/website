@@ -1,14 +1,8 @@
-# Development
-
+# Nethack tasks
 ## Current
 
-
 ## Done
-- create new nethack app
-```
-git clone https://github.com/Differential/meteor-boilerplate-lite nethack
-cd nethack
-meteor
-```
+- client : added github oauth
 
-## Backlog
+## Todo
+- server : mongodb
