@@ -1,13 +1,14 @@
 # Development
 
 ## Current
-- [add github authentication](http://themeteorchef.com/recipes/roll-your-own-authentication/)
 
 
 ## Done
 - create new nethack app
 ```
-meteor create nethack
+git clone https://github.com/Differential/meteor-boilerplate-lite nethack
+cd nethack
+meteor
 ```
 
 ## Backlog
