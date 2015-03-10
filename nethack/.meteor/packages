@@ -8,3 +8,5 @@ insecure
 accounts-ui
 accounts-github
 standard-app-packages
+nemo64:bootstrap
+less
