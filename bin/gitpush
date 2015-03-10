@@ -1,0 +1,9 @@
+
+GITCOMMENT="$1"
+[ -z "$GITCOMMENT" ] && GITCOMMENT="No comment..."
+
+git pull
+git add -A
+git commit -m "$GITCOMMENT"
+git push
+
