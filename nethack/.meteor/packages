@@ -10,3 +10,4 @@ accounts-github
 standard-app-packages
 nemo64:bootstrap
 less
+iron:router
