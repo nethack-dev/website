@@ -1,2 +1,8 @@
-meteor add nemo64:bootstrap less iron:router
+#
+# install dependencies
+#
+
+#
+# start up meteor
+#
 meteor
